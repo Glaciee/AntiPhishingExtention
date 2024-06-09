@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Anti-Fishing Extension",
+  "description": "A Extension Project Made For The BitStream Hackathon",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "Testing.png"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
